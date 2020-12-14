@@ -21,6 +21,7 @@ The person with the greatest value of r(v) wins the object and pays the greatest
 Threshold/r^-1(0)<br />
 <br />
 **I have attached tests to these functions:**<br />
+
 For one player for example:<br />
 <br />
  >>> Splits = Uniform ();<br />
