@@ -27,7 +27,7 @@ For one player for example:<br />
  >>> Splits.low=10;<br />
  >>> Splits.high=30;<br />
  >>> max_revenue_auction(Splits, 9);<br />
-    No agent wins<br />
+   No agent wins<br />
 <br />
 The value of r (v) <0<br />
 And therefore does not buy the object.<br />
