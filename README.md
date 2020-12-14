@@ -24,6 +24,7 @@ Threshold/r^-1(0)<br />
 
 For two players,The following test is attached:<br />
 <br />
+ >>>
  >>> Splits = Uniform ();<br />
  >>> Splits.low = 10;<br />
  >>> Splits.high = 30;<br />
