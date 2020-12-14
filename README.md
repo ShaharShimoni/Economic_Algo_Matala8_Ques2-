@@ -22,16 +22,6 @@ Threshold/r^-1(0)<br />
 <br />
 **I have attached tests to these functions:**<br />
 
-For one player for example:<br />
-<br />
- >>> Splits = Uniform ();<br />
- >>> Splits.low = 10;<br />
- >>> Splits.high = 30;<br />
-  No agent wins <br />
-<br />
-The value of r (v) <0<br />
-And therefore does not buy the object.<br />
-<br />
 For two players,The following test is attached:<br />
 <br />
  >>> Splits = Uniform ();<br />
@@ -44,4 +34,14 @@ For two players,The following test is attached:<br />
     Agent 1 wins and pays 22<br />
 <br />
 The first person wins and pays the threshold value which is 22.<br />
+<br />
+For one player for example:<br />
+<br />
+ >>> Splits = Uniform ();<br />
+ >>> Splits.low = 10;<br />
+ >>> Splits.high = 30;<br />
+  No agent wins <br />
+<br />
+The value of r (v) <0<br />
+And therefore does not buy the object.<br />
 <br />
