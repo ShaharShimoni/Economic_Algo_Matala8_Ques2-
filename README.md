@@ -23,10 +23,10 @@ Threshold/r^-1(0)<br />
 **I have attached tests to these functions:**<br />
 For one player for example:<br />
 <br />
- >>> Splits = Uniform ();<br />
- >>> Splits.low = 10;<br />
- >>> Splits.high = 30;<br />
- >>> max_revenue_auction (Splits, 9);<br />
+ >>> Splits=Uniform();<br />
+ >>> Splits.low=10;<br />
+ >>> Splits.high=30;<br />
+ >>> max_revenue_auction(Splits, 9);<br />
     No agent wins<br />
 <br />
 The value of r (v) <0<br />
